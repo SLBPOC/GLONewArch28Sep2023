@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zAsEY6xXKDJEqRiG9s32LuQ6NEcerMhfK1BNsCVPd7o=",
+  "Source": "Delfi.Glo.Api",
+  "BasePath": "_content/Delfi.Glo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

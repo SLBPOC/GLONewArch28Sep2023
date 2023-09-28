@@ -1,0 +1,84 @@
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.deps.json
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.AssemblyReference.cache
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfoInputs.cache
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfo.cs
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CoreCompileInputs.cache
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CopyComplete
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\refint\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\ref\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.deps.json
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.AssemblyReference.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfoInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfo.cs
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CoreCompileInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CopyComplete
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\refint\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\ref\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.deps.json
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.AssemblyReference.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfoInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfo.cs
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CoreCompileInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CopyComplete
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\refint\Delfi.Glo.Telemetry.Worker.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\ref\Delfi.Glo.Telemetry.Worker.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.deps.json
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.PostgreSql.Dal.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\bin\Debug\net7.0\Delfi.Glo.Repository.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.AssemblyReference.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfoInputs.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.AssemblyInfo.cs
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CoreCompileInputs.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.csproj.CopyComplete
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\refint\Delfi.Glo.Telemetry.Worker.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\Delfi.Glo.Telemetry.Worker.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Telemetry.Worker\obj\Debug\net7.0\ref\Delfi.Glo.Telemetry.Worker.dll

@@ -1,0 +1,1397 @@
+[
+  {
+    "EventId": 1,
+    "WellId": "1",
+    "WellName": "Apache 24 FED 11",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-25T13:14:59",
+    "UpdatedBy": "Jhonson"
+ },
+  {
+    "EventId": 2,
+    "WellId": "2",
+    "WellName": "Jones 2-15-022BH",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-26T14:14:50",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 3,
+    "WellId": "3",
+    "WellName": "Apache 24 FED 12",
+    "EventType": "Algorithm",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-27T11:13:29",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 4,
+    "WellId": "4",
+    "WellName": "Apache 24 FED 13",
+    "EventType": "Controller",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-28T14:10:19",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 5,
+    "WellId": "5",
+    "WellName": "Apache 24 FED 14",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen by Ricky",
+    "CreationDateTime": "2023-09-29T00:14:05",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 6,
+    "WellId": "6",
+    "WellName": "Apache 24 FED 15",
+    "EventType": "System",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-30T01:14:07",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 7,
+    "WellId": "7",
+    "WellName": "Jones 2-16-022BH1",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-21T13:11:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 8,
+    "WellId": "8",
+    "WellName": "Jones 2-16-022BH2",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-22T13:12:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 9,
+    "WellId": "9",
+    "WellName": "Jones 2-16-022BH3",
+    "EventType": "Algorithm",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-23T13:13:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 10,
+    "WellId": "10",
+    "WellName": "Apache 24 FED 1110",
+    "EventType": "Controller",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-24T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 11,
+    "WellId": "11",
+    "WellName": "Jones 2-15-022BH11",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen by Ricky",
+    "CreationDateTime": "2023-09-25T13:15:16",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 12,
+    "WellId": "12",
+    "WellName": "Apache 24 FED 1212",
+    "EventType": "System",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-26T13:17:58",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 13,
+    "WellId": "13",
+    "WellName": "Apache 24 FED 1313",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-27T10:14:29",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 14,
+    "WellId": "14",
+    "WellName": "Apache 24 FED 1414",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-28T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 15,
+    "WellId": "15",
+    "WellName": "Apache 24 FED 1515",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-29T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 16,
+    "WellId": "16",
+    "WellName": "Jones 2-16-022BH116",
+    "EventType": "Algorithm",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-30T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 17,
+    "WellId": "17",
+    "WellName": "Jones 2-16-022BH217",
+    "EventType": "Controller",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-17T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 18,
+    "WellId": "18",
+    "WellName": "Jones 2-16-022BH18",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-18T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 19,
+    "WellId": "19",
+    "WellName": "Apache 24 FED 1119",
+    "EventType": "System",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-19T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 20,
+    "WellId": "20",
+    "WellName": "Jones 2-15-022BH20",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-20T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 21,
+    "WellId": "21",
+    "WellName": "Apache 24 FED 21",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-21T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 22,
+    "WellId": "22",
+    "WellName": "Apache 24 FED 22",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-22T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 23,
+    "WellId": "23",
+    "WellName": "Apache 24 FED 23",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-23T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 24,
+    "WellId": "24",
+    "WellName": "Apache 24 FED 24",
+    "EventType": "Algorithm",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-24T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 25,
+    "WellId": "25",
+    "WellName": "Jones 2-16-022BH25",
+    "EventType": "Controller",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-25T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 26,
+    "WellId": "26",
+    "WellName": "Jones 2-16-022BH26",
+    "EventType": "Alerts",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-26T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 27,
+    "WellId": "27",
+    "WellName": "Jones 2-16-022BH27",
+    "EventType": "System",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-27T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 28,
+    "WellId": "28",
+    "WellName": "Apache 24 FED 28",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-28T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 29,
+    "WellId": "29",
+    "WellName": "Jones 2-15-022BH29",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-29T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 30,
+    "WellId": "30",
+    "WellName": "Apache 24 FED 30",
+    "EventType": "Algorithm",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-30T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 31,
+    "WellId": "31",
+    "WellName": "Apache 24 FED 31",
+    "EventType": "Controller",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-31T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 32,
+    "WellId": "32",
+    "WellName": "Apache 24 FED 32",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-01T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 33,
+    "WellId": "33",
+    "WellName": "Apache 24 FED 33",
+    "EventType": "System",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-02T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 34,
+    "WellId": "34",
+    "WellName": "Jones 2-16-022BH 34",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-03T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 35,
+    "WellId": "35",
+    "WellName": "Jones 2-16-022BH 35",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-04T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 36,
+    "WellId": "36",
+    "WellName": "Jones 2-16-022BH 36",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-05T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 37,
+    "WellId": "37",
+    "WellName": "Apache 24 FED 37",
+    "EventType": "Algorithm",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-06T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 38,
+    "WellId": "38",
+    "WellName": "Jones 2-15-022BH 38",
+    "EventType": "Controller",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-07T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 39,
+    "WellId": "39",
+    "WellName": "Jones 2-15-022BH 39",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-08T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 40,
+    "WellId": "40",
+    "WellName": "Jones 2-15-022BH 40",
+    "EventType": "System",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-09T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 41,
+    "WellId": "41",
+    "WellName": "Jones 2-15-022BH 41",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-10T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 42,
+    "WellId": "42",
+    "WellName": "Jones 2-15-022BH 42",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-11T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 43,
+    "WellId": "43",
+    "WellName": "Jones 2-16-022BH 43",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-12T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 44,
+    "WellId": "44",
+    "WellName": "Jones 2-16-022BH 44",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-13T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 45,
+    "WellId": "45",
+    "WellName": "Jones 2-16-022BH 45",
+    "EventType": "Algorithm",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-14T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 46,
+    "WellId": "46",
+    "WellName": "Apache 24 FED 46",
+    "EventType": "Controller",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-15T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 47,
+    "WellId": "47",
+    "WellName": "Jones 2-15-022BH 47",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-16T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 48,
+    "WellId": "48",
+    "WellName": "Apache 24 FED 48",
+    "EventType": "System",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-17T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 49,
+    "WellId": "49",
+    "WellName": "Apache 24 FED 49",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-18T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 50,
+    "WellId": "50",
+    "WellName": "Apache 24 FED 50",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-19T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 51,
+    "WellId": "51",
+    "WellName": "Apache 24 FED 51",
+    "EventType": "Algorithm",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-20T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 52,
+    "WellId": "52",
+    "WellName": "Jones 2-16-022BH 52",
+    "EventType": "Controller",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-21T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 53,
+    "WellId": "53",
+    "WellName": "Jones 2-16-022BH 53",
+    "EventType": "Alerts",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-22T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 54,
+    "WellId": "54",
+    "WellName": "Jones 2-16-022BH 54",
+    "EventType": "System",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-01T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 55,
+    "WellId": "55",
+    "WellName": "Apache 24 FED 55",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-02T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 56,
+    "WellId": "56",
+    "WellName": "Apache 24 FED 56",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-03T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 57,
+    "WellId": "57",
+    "WellName": "Apache 24 FED 57",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-04T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 58,
+    "WellId": "58",
+    "WellName": "Jones 2-16-022BH 58",
+    "EventType": "Algorithm",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-05T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 59,
+    "WellId": "59",
+    "WellName": "Jones 2-16-022BH 59",
+    "EventType": "Controller",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-06T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 60,
+    "WellId": "60",
+    "WellName": "Jones 2-16-022BH60",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-07T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 61,
+    "WellId": "61",
+    "WellName": "Apache 24 FED 61",
+    "EventType": "System",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-08T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 62,
+    "WellId": "62",
+    "WellName": "Jones 2-15-022BH62",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-09T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 63,
+    "WellId": "63",
+    "WellName": "Apache 24 FED 63",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-10T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 64,
+    "WellId": "64",
+    "WellName": "Apache 24 FED 64",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-11T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 65,
+    "WellId": "65",
+    "WellName": "Apache 24 FED 65",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-12T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 66,
+    "WellId": "66",
+    "WellName": "Apache 24 FED 66",
+    "EventType": "Algorithm",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-13T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 67,
+    "WellId": "67",
+    "WellName": "Jones 2-16-022BH 67",
+    "EventType": "Controller",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-14T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 68,
+    "WellId": "68",
+    "WellName": "Jones 2-16-022BH 68",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-15T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 69,
+    "WellId": "69",
+    "WellName": "Jones 2-16-022BH 69",
+    "EventType": "System",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-16T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 70,
+    "WellId": "70",
+    "WellName": "Jones 2-16-022BH 70",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-17T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 71,
+    "WellId": "71",
+    "WellName": "Apache 24 FED 71",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-18T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 72,
+    "WellId": "72",
+    "WellName": "Jones 2-15-022BH 72",
+    "EventType": "Algorithm",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-19T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 73,
+    "WellId": "73",
+    "WellName": "Apache 24 FED 73",
+    "EventType": "Controller",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-20T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 74,
+    "WellId": "74",
+    "WellName": "Apache 24 FED 74",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-21T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 75,
+    "WellId": "75",
+    "WellName": "Apache 24 FED 75",
+    "EventType": "System",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-22T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 76,
+    "WellId": "76",
+    "WellName": "Apache 24 FED 76",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-23T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 77,
+    "WellId": "77",
+    "WellName": "Jones 2-16-022BH 77",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-24T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 78,
+    "WellId": "78",
+    "WellName": "Jones 2-16-022BH 78",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-25T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 79,
+    "WellId": "79",
+    "WellName": "Jones 2-16-022BH 79",
+    "EventType": "Algorithm",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-26T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 80,
+    "WellId": "80",
+    "WellName": "Apache 24 FED 80",
+    "EventType": "Controller",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-27T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 81,
+    "WellId": "81",
+    "WellName": "Jones 2-16-022BH 81",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-28T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 82,
+    "WellId": "82",
+    "WellName": "Apache 24 FED 82",
+    "EventType": "System",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-29T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 83,
+    "WellId": "83",
+    "WellName": "Apache 24 FED 83",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-30T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 84,
+    "WellId": "84",
+    "WellName": "Apache 24 FED 84",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-31T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 85,
+    "WellId": "85",
+    "WellName": "Apache 24 FED 85",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-01T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 86,
+    "WellId": "86",
+    "WellName": "Jones 2-16-022BH 86",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-02T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 87,
+    "WellId": "87",
+    "WellName": "Jones 2-16-022BH 87",
+    "EventType": "Algorithm",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-03T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 88,
+    "WellId": "88",
+    "WellName": "Jones 2-16-022BH 88",
+    "EventType": "Controller",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-04T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 89,
+    "WellId": "89",
+    "WellName": "Apache 24 FED 89",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-05T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 90,
+    "WellId": "90",
+    "WellName": "Jones 2-15-022BH 90",
+    "EventType": "System",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-06T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 91,
+    "WellId": "91",
+    "WellName": "Jones 2-15-022BH 91",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-07T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 92,
+    "WellId": "92",
+    "WellName": "Jones 2-15-022BH 92",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-08T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 93,
+    "WellId": "94",
+    "WellName": "Jones 2-15-022BH 93",
+    "EventType": "Algorithm",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-09T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 94,
+    "WellId": "95",
+    "WellName": "Jones 2-15-022BH 94",
+    "EventType": "Controller",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-10T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 95,
+    "WellId": "96",
+    "WellName": "Jones 2-15-022BH 95",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-11T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 96,
+    "WellId": "97",
+    "WellName": "Jones 2-15-022BH 96",
+    "EventType": "System",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-12T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 97,
+    "WellId": "98",
+    "WellName": "Jones 2-15-022BH 97",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-13T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 98,
+    "WellId": "99",
+    "WellName": "Jones 2-15-022BH 98",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-14T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 99,
+    "WellId": "100",
+    "WellName": "Apache 24 FED 100",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-15T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 100,
+    "WellId": "101",
+    "WellName": "Apache 24 FED 101",
+    "EventType": "Algorithm",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-16T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 101,
+    "WellId": "102",
+    "WellName": "Apache 24 FED 102",
+    "EventType": "Controller",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-17T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 102,
+    "WellId": "103",
+    "WellName": "Apache 24 FED 103",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-18T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 103,
+    "WellId": "104",
+    "WellName": "Jones 2-16-022BH 104",
+    "EventType": "System",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-19T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 104,
+    "WellId": "105",
+    "WellName": "Jones 2-16-022BH 105",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-20T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 105,
+    "WellId": "106",
+    "WellName": "Jones 2-16-022BH 106",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-21T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 106,
+    "WellId": "107",
+    "WellName": "Apache 24 FED 107",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-22T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 107,
+    "WellId": "108",
+    "WellName": "Jones 2-16-022BH 108",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-01T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 108,
+    "WellId": "109",
+    "WellName": "Apache 24 FED 109",
+    "EventType": "Algorithm",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-02T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 109,
+    "WellId": "110",
+    "WellName": "Apache 24 FED 110",
+    "EventType": "Controller",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-03T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 110,
+    "WellId": "111",
+    "WellName": "Apache 24 FED 111",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-04T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 111,
+    "WellId": "112",
+    "WellName": "Apache 24 FED 112",
+    "EventType": "System",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-05T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 112,
+    "WellId": "113",
+    "WellName": "Jones 2-16-022BH 113",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-06T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 113,
+    "WellId": "114",
+    "WellName": "Jones 2-16-022BH 114",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-07T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 114,
+    "WellId": "115",
+    "WellName": "Jones 2-16-022BH 115",
+    "EventType": "Algorithm",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-08T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 115,
+    "WellId": "116",
+    "WellName": "Apache 24 FED 116",
+    "EventType": "Controller",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-09T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 116,
+    "WellId": "117",
+    "WellName": "Jones 2-15-022BH 117",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-10T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 117,
+    "WellId": "118",
+    "WellName": "Apache 24 FED 118",
+    "EventType": "System",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-11T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 118,
+    "WellId": "119",
+    "WellName": "Apache 24 FED 119",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-12T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 119,
+    "WellId": "120",
+    "WellName": "Apache 24 FED 120",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-13T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 120,
+    "WellId": "121",
+    "WellName": "Apache 24 FED 121",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-14T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 121,
+    "WellId": "122",
+    "WellName": "Jones 2-16-022BH 122",
+    "EventType": "Algorithm",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-15T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 122,
+    "WellId": "123",
+    "WellName": "Jones 2-16-022BH 123",
+    "EventType": "Controller",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-16T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 123,
+    "WellId": "124",
+    "WellName": "Jones 2-16-022BH 124",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-17T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 124,
+    "WellId": "125",
+    "WellName": "Apache 24 FED 125",
+    "EventType": "System",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-18T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 125,
+    "WellId": "126",
+    "WellName": "Jones 2-15-022BH 126",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-19T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 126,
+    "WellId": "127",
+    "WellName": "Apache 24 FED 127",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-20T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 127,
+    "WellId": "128",
+    "WellName": "Apache 24 FED 128",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-21T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 128,
+    "WellId": "129",
+    "WellName": "Apache 24 FED 129",
+    "EventType": "Mitigation",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-22T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 129,
+    "WellId": "130",
+    "WellName": "Apache 24 FED 130",
+    "EventType": "Algorithm",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-23T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 130,
+    "WellId": "131",
+    "WellName": "Jones 2-16-022BH 131",
+    "EventType": "Controller",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-24T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 131,
+    "WellId": "132",
+    "WellName": "Jones 2-16-022BH 132",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-25T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 132,
+    "WellId": "133",
+    "WellName": "Jones 2-16-022BH 133",
+    "EventType": "System",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-26T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 133,
+    "WellId": "134",
+    "WellName": "Apache 24 FED 134",
+    "EventType": "DynaCard",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-08-27T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 134,
+    "WellId": "135",
+    "WellName": "Jones 2-15-022BH 135",
+    "EventType": "Mitigation",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-08-28T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 135,
+    "WellId": "136",
+    "WellName": "Apache 24 FED 136",
+    "EventType": "Algorithm",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-08-29T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 136,
+    "WellId": "137",
+    "WellName": "Apache 24 FED 137",
+    "EventType": "Controller",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-08-30T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 137,
+    "WellId": "138",
+    "WellName": "Apache 24 FED 138",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-08-31T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 138,
+    "WellId": "139",
+    "WellName": "Apache 24 FED 139",
+    "EventType": "System",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-01T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 139,
+    "WellId": "140",
+    "WellName": "Jones 2-16-022BH 140",
+    "EventType": "DynaCard",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-02T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 140,
+    "WellId": "141",
+    "WellName": "Jones 2-16-022BH 141",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-03T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 141,
+    "WellId": "142",
+    "WellName": "Jones 2-16-022BH 142",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-04T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 142,
+    "WellId": "143",
+    "WellName": "Apache 24 FED 143",
+    "EventType": "Algorithm",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-05T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 143,
+    "WellId": "144",
+    "WellName": "Jones 2-15-022BH 144",
+    "EventType": "Controller",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-06T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 144,
+    "WellId": "145",
+    "WellName": "Apache 24 FED 145",
+    "EventType": "Alerts",
+    "EventDescription": "Alert Cleared from Alert Screen",
+    "CreationDateTime": "2023-09-07T13:14:59",
+    "UpdatedBy": "Gillchrist"
+  },
+  {
+    "EventId": 145,
+    "WellId": "146",
+    "WellName": "Apache 24 FED 146",
+    "EventType": "System",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-08T13:14:59",
+    "UpdatedBy": "Ricky"
+  },
+  {
+    "EventId": 146,
+    "WellId": "147",
+    "WellName": "Apache 24 FED 147",
+    "EventType": "DynaCard",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-09T13:14:59",
+    "UpdatedBy": "Mathew"
+  },
+  {
+    "EventId": 147,
+    "WellId": "148",
+    "WellName": "Apache 24 FED 148",
+    "EventType": "Mitigation",
+    "EventDescription": "Gas Interference Events",
+    "CreationDateTime": "2023-09-10T13:14:59",
+    "UpdatedBy": "Krishna"
+  },
+  {
+    "EventId": 148,
+    "WellId": "149",
+    "WellName": "Jones 2-16-022BH 149",
+    "EventType": "DynaCard",
+    "EventDescription": "Excessive Cycling",
+    "CreationDateTime": "2023-09-11T13:14:59",
+    "UpdatedBy": "Jhonson"
+  },
+  {
+    "EventId": 149,
+    "WellId": "150",
+    "WellName": "Jones 2-16-022BH 150",
+    "EventType": "Mitigation",
+    "EventDescription": "Flatlining",
+    "CreationDateTime": "2023-09-12T13:14:59",
+    "UpdatedBy": "Jerry"
+  },
+  {
+    "EventId": 150,
+    "WellId": "151",
+    "WellName": "Jones 2-16-022BH 151",
+    "EventType": "Algorithm",
+    "EventDescription": "Distorted Card Events",
+    "CreationDateTime": "2023-09-13T13:14:59",
+    "UpdatedBy": "Subhash"
+  },
+  {
+    "EventId": 151,
+    "WellId": "1",
+    "WellName": "Apache 24 FED 11",
+    "EventType": "Alerts",
+    "EventDescription": "Flatlining - ddd",
+    "CreationDateTime": "2023-09-25T21:15:34.9519324+05:30",
+    "UpdatedBy": "Admin"
+  },
+  {
+    "EventId": 152,
+    "WellId": "1",
+    "WellName": "Apache 24 FED 11",
+    "EventType": "Alerts",
+    "EventDescription": "Tagging - rggfgdfg",
+    "CreationDateTime": "2023-09-25T21:16:28.7037482+05:30",
+    "UpdatedBy": "Admin"
+  },
+  {
+    "EventId": 153,
+    "WellId": "5",
+    "WellName": "Apache 24 FED 12",
+    "EventType": "Alerts",
+    "EventDescription": "Tagging - ggggg",
+    "CreationDateTime": "2023-09-25T21:20:58.3380364+05:30",
+    "UpdatedBy": "Admin"
+  },
+  {
+    "EventId": 154,
+    "WellId": "5",
+    "WellName": "Apache 24 FED 12",
+    "EventType": "Alerts",
+    "EventDescription": "Tagging - kjkk",
+    "CreationDateTime": "2023-09-25T21:23:55.8229209+05:30",
+    "UpdatedBy": "Admin"
+  },
+  {
+    "EventId": 155,
+    "WellId": "1",
+    "WellName": "Apache 24 FED 11",
+    "EventType": "Alerts",
+    "EventDescription": "Flatlining - yyy",
+    "CreationDateTime": "2023-09-26T03:45:17.7737833+05:30",
+    "UpdatedBy": "Admin"
+  }
+]

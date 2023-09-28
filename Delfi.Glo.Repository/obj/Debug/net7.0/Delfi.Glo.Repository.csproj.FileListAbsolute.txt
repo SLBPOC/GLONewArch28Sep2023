@@ -1,0 +1,17 @@
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Repository.deps.json
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Repository.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Repository.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Common.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.csproj.AssemblyReference.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.AssemblyInfoInputs.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.AssemblyInfo.cs
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.csproj.CopyComplete
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\refint\Delfi.Glo.Repository.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\Delfi.Glo.Repository.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Repository\obj\Debug\net7.0\ref\Delfi.Glo.Repository.dll

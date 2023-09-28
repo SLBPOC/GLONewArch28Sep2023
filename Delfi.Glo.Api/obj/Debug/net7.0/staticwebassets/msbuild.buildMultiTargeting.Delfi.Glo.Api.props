@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Delfi.Glo.Api.props" />
+</Project>

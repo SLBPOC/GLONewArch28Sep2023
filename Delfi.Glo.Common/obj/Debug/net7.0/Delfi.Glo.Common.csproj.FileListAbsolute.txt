@@ -1,0 +1,60 @@
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.deps.json
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.AssemblyReference.cache
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfoInputs.cache
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfo.cs
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CoreCompileInputs.cache
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CopyComplete
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\refint\Delfi.Glo.Common.dll
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\test git\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\ref\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.deps.json
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.AssemblyReference.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfoInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfo.cs
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CoreCompileInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CopyComplete
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\refint\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP_latest\Delfi.Glo.Common\obj\Debug\net7.0\ref\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.deps.json
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.AssemblyReference.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfoInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfo.cs
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CoreCompileInputs.cache
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CopyComplete
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\refint\Delfi.Glo.Common.dll
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.pdb
+D:\Ravindra\Development\SLB\GLO\GLO_Backend\DELPHI-GLO-API-APP-28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\ref\Delfi.Glo.Common.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.deps.json
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Common.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\bin\Debug\net7.0\Delfi.Glo.Entities.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.AssemblyReference.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfoInputs.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.AssemblyInfo.cs
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CoreCompileInputs.cache
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.csproj.CopyComplete
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\refint\Delfi.Glo.Common.dll
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\Delfi.Glo.Common.pdb
+C:\Users\velmuruganm\source\repos\SLBPOC\GLONewArch28Sep2023\Delfi.Glo.Common\obj\Debug\net7.0\ref\Delfi.Glo.Common.dll

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\AlgoMitigationService.cs" />
+    <Compile Remove="Services\DynacardService.cs" />
+    <Compile Remove="Specifications\DynameterSpecifications.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Delfi.Glo.Common\Delfi.Glo.Common.csproj" />
+    <ProjectReference Include="..\Delfi.Glo.Entities\Delfi.Glo.Entities.csproj" />
+    <ProjectReference Include="..\Delfi.Glo.PostgreSql.Dal\Delfi.Glo.PostgreSql.Dal.csproj" />
+    <ProjectReference Include="..\Delfi.Glo.Repository\Delfi.Glo.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
