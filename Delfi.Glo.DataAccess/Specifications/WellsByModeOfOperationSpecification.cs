@@ -4,19 +4,19 @@ using System.Linq.Expressions;
 
 namespace Delfi.Glo.DataAccess.Specifications
 {
-    public class WellsByPumpFillageSpecification : Specification<WellDto>
+    public class WellsByModeOfOperationSpecification : Specification<WellDto>
     {
         private readonly WellListFilterDto _wellListFilter;
         private readonly bool  result=false;
 
-        public WellsByPumpFillageSpecification(WellListFilterDto wellListFilter)
+        public WellsByModeOfOperationSpecification(WellListFilterDto wellListFilter)
         {
             this._wellListFilter = wellListFilter;
         }
         public override Expression<Func<WellDto, bool>> ToExpression()
         {
-            return a => a.PumpFillage != null && _wellListFilter.PumpFillage != null ? (a.PumpFillage.Value >= _wellListFilter.PumpFillage.Start
-                && a.PumpFillage.Value <= _wellListFilter.PumpFillage.End) : result;
+            bool var = false;
+            return a => _wellListFilter.ModeOfOperation != null ? _wellListFilter.ModeOfOperation.Any(b => b == a.ApprovalMode) : var;
         }
     }
 }

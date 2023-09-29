@@ -4,18 +4,18 @@ using System.Linq.Expressions;
 
 namespace Delfi.Glo.DataAccess.Specifications
 {
-    public class WellsByControllerStatusSpecification : Specification<WellDto>
+    public class WellsByDeviceUpTimeSpecification : Specification<WellDto>
     {
         private readonly WellListFilterDto _wellListFilter;
 
-        public WellsByControllerStatusSpecification(WellListFilterDto wellListFilter)
+        public WellsByDeviceUpTimeSpecification(WellListFilterDto wellListFilter)
         {
             this._wellListFilter = wellListFilter;
         }
 
         public override Expression<Func<WellDto, bool>> ToExpression()
         {
-            return a => _wellListFilter.ControllerStatus != null ? _wellListFilter.ControllerStatus.Any(b => b == a.ControllerStatus) : false;
+            return a => _wellListFilter.DeviceUpTime != null ? _wellListFilter.DeviceUpTime.Any(b => b == a.DeviceUpTime) : false;
         }
     }
 }

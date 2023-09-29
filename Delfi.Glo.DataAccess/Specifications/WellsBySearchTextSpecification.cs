@@ -16,17 +16,12 @@ namespace Delfi.Glo.DataAccess.Specifications
 
         public override Expression<Func<WellDto, bool>> ToExpression()
         {
-            return a => (a.WellName ?? "").ToLower().Contains(search) 
-                    || (a.CommStatus ?? "").ToLower().Contains(search)
+            return a => (a.WellName ?? "").ToLower().Contains(search)
+                    || (a.CurrentCycleStatus ?? "").ToLower().Contains(search)
                     || (a.WellStatus ?? "").ToLower().Contains(search)
-                    || (a.ControllerStatus ?? "").ToLower().Contains(search)
-                    || (a.CommStatus ?? "").ToLower().Contains(search)
-                    || ((a.SPM ?? new WellChartDetails()).ToString() ?? "").Contains(search) || ((a.PumpFillage ?? new WellChartDetails()).ToString() ?? "").Contains(search)
-                    || ((a.InferredProduction ?? new WellChartDetails()).ToString() ?? "").Contains(search) || a.NoOfAlerts.ToString().Contains(search)
-                    || ((a.EffectiveRunTime ?? new WellChartDetails()).ToString() ?? "").Contains(search) || ((a.CyclesToday ?? new WellChartDetails()).ToString() ?? "").Contains(search)
-                    || ((a.StructuralLoad ?? new WellChartDetails()).ToString() ?? "").Contains(search) || ((a.GearboxLoad ?? new WellChartDetails()).ToString() ?? "").Contains(search)
-                    || ((a.MinMaxLoad ?? new WellChartDetailsMinMax()).ToString() ?? "").Contains(search) || ((a.RodStress ?? new WellChartDetails()).ToString() ?? "").Contains(search)
-                    || (a.DateAndTime ?? "").Contains(search);
+                    || (a.LastCycleStatus ?? "").ToLower().Contains(search)
+                    || (a.ApprovalMode ?? "").ToLower().Contains(search)
+                     || (a.ApprovalStatus ?? "").ToLower().Contains(search);
         }
 
 

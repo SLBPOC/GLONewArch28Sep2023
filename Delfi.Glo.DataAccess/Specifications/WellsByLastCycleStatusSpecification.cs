@@ -4,12 +4,12 @@ using System.Linq.Expressions;
 
 namespace Delfi.Glo.DataAccess.Specifications
 {
-    public class WellsByCommsStatusSpecification : Specification<WellDto>
+    public class WellsByLastCycleStatusSpecification : Specification<WellDto>
     {
         private readonly WellListFilterDto _wellListFilter;
 
 
-        public WellsByCommsStatusSpecification(WellListFilterDto wellListFilter)
+        public WellsByLastCycleStatusSpecification(WellListFilterDto wellListFilter)
         {
             this._wellListFilter = wellListFilter;
         }
@@ -17,7 +17,7 @@ namespace Delfi.Glo.DataAccess.Specifications
         public override Expression<Func<WellDto, bool>> ToExpression()
         {
             bool var = false;
-            return a => _wellListFilter.CommStatus != null ? _wellListFilter.CommStatus.Any(b => b == a.CommStatus) : var;
+            return a => _wellListFilter.LastCycleStatus != null ? _wellListFilter.LastCycleStatus.Any(b => b == a.LastCycleStatus) : var;
         }
     }
 }

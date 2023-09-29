@@ -4,18 +4,17 @@ using System.Linq.Expressions;
 
 namespace Delfi.Glo.DataAccess.Specifications
 {
-    public class WellsByPumpingTypeSpecification : Specification<WellDto>
+    public class WellsByProductionUpTimeSpecification : Specification<WellDto>
     {
         private readonly WellListFilterDto _wellListFilter;
-
-        public WellsByPumpingTypeSpecification(WellListFilterDto wellListFilter)
+        public WellsByProductionUpTimeSpecification(WellListFilterDto wellListFilter)
         {
             this._wellListFilter = wellListFilter;
         }
-
         public override Expression<Func<WellDto, bool>> ToExpression()
         {
-            return a => _wellListFilter.PumpingType != null && _wellListFilter.PumpingType.Any(b => b == a.WellStatus);
+            bool var = false;
+            return a => _wellListFilter.ProductionUpTime != null ? _wellListFilter.ProductionUpTime.Any(b => b == a.ProductionUpTime) : var;
         }
     }
 }

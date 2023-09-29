@@ -6,26 +6,54 @@ namespace Delfi.Glo.Entities.Dto
     public class WellDetailsDto
     {
         public List<WellDto>? WellDtos { get; set; }
-        public PumpingDetails? PumpingDetails { get; set; }
-
+        public CycleStatusCount? currentcycleStatusCount { get; set; }
+        public ModeOfOperationCount? modeOfOperationCount { get; set; }
     }
     public class WellDto
     {
+        //public int Id { get; set; }
+        //public string? WellId { get; set; }
+        //public string? WellName { get; set; }
+        //public string? DateAndTime { get; set; }
+        //public string? CommStatus { get; set; }
+        //public string? ControllerStatus { get; set; }
+        //public WellChartDetails? SPM { get; set; }
+        //public WellChartDetails? PumpFillage { get; set; }
+        //public WellChartDetails? InferredProduction { get; set; }
+        //public WellChartDetails? EffectiveRunTime { get; set; }
+        //public WellChartDetails? CyclesToday { get; set; }
+        //public WellChartDetails? StructuralLoad { get; set; }
+        //public WellChartDetailsMinMax? MinMaxLoad { get; set; }
+        //public WellChartDetails? GearboxLoad { get; set; }
+        //public WellChartDetails? RodStress { get; set; }
+        //public int NoOfAlerts { get; set; }
+        //public string? WellStatus { get; set; }
+        //public string? FieldName { get; set; }
+        //public string? BatteryName { get; set; }
+        //public string? PadName { get; set; }
+        //public int FieldId { get; set; }
+        //public int BatteryId { get; set; }
+        //public int PadId { get; set; }
         public int Id { get; set; }
         public string? WellId { get; set; }
-        public string? WellName { get; set; }
-        public string? DateAndTime { get; set; }
-        public string? CommStatus { get; set; }
-        public string? ControllerStatus { get; set; }
-        public WellChartDetails? SPM { get; set; }
-        public WellChartDetails? PumpFillage { get; set; }
-        public WellChartDetails? InferredProduction { get; set; }
-        public WellChartDetails? EffectiveRunTime { get; set; }
-        public WellChartDetails? CyclesToday { get; set; }
-        public WellChartDetails? StructuralLoad { get; set; }
-        public WellChartDetailsMinMax? MinMaxLoad { get; set; }
-        public WellChartDetails? GearboxLoad { get; set; }
-        public WellChartDetails? RodStress { get; set; }
+        public string WellName { get; set; }
+        public string WellPriority { get; set; }
+        public int GLISetPoint { get; set; }
+        public int QOil { get; set; }
+        public int QLiq { get; set; }
+        public int Qg { get; set; }
+        public int Qw { get; set; }
+        public decimal Wc { get; set; }
+        public double? CompressorUpTime { get; set; }
+        public double? ProductionUpTime { get; set; }
+        public decimal DeviceUpTime { get; set; }
+        public string LastCycleStatus { get; set; }
+        public DateTime? TimeStamp { get; set; }
+        public int CurrentGLISetpoint { get; set; }
+        public string CurrentCycleStatus { get; set; }
+        public string ApprovalMode { get; set; }
+        public string ApprovalStatus { get; set; }
+        public string UserId { get; set; }
         public int NoOfAlerts { get; set; }
         public string? WellStatus { get; set; }
         public string? FieldName { get; set; }
@@ -35,7 +63,21 @@ namespace Delfi.Glo.Entities.Dto
         public int BatteryId { get; set; }
         public int PadId { get; set; }
     }
+    public class CycleStatusCount
+    {
+        public int Stabilization { get; set; }
+        public int RateEstimation { get; set; }
+        public int WaitingForApproval { get; set; }
+     
+    }
 
+    public class ModeOfOperationCount
+    {
+        public int Approved { get; set; }
+        public int WaitingForApproval { get; set; }
+        public int Discard { get; set; }
+        public int Override { get; set; }
+    }
     public class PumpingDetails
     {
         public int TotalCount { get; set; }
