@@ -19,7 +19,12 @@
     "ApprovalMode": "Manual",
     "ApprovalStatus": "Approved",
     "UserId": "U001",
-    "NoOfAlerts": 5
+    "NoOfAlerts": 5,
+    "batteryName": "Battery Lambda",
+    "padName": "Pad pi",
+    "fieldId": 201,
+    "batteryId": 3201,
+    "padId": 73201
   },
 
   {
@@ -42,7 +47,13 @@
     "ApprovalMode": "Manual",
     "ApprovalStatus": "Approved",
     "UserId": "U001",
-    "NoOfAlerts": 2
+    "NoOfAlerts": 2,
+    "fieldName": "Field Beta",
+    "batteryName": "Battery Gamma",
+    "padName": "Pad Sigma",
+    "fieldId": 202,
+    "batteryId": 4202,
+    "padId": 84202
   },
   {
     "Id": 3,
@@ -64,7 +75,13 @@
     "ApprovalMode": "Auto",
     "ApprovalStatus": "Override",
     "UserId": "U001",
-    "NoOfAlerts": 3
+    "NoOfAlerts": 3,
+    "fieldName": "Field Theta",
+    "batteryName": "Battery iota",
+    "padName": "Pad Omega",
+    "fieldId": 203,
+    "batteryId": 5203,
+    "padId": 95203
   },
   {
     "Id": 4,
@@ -86,7 +103,13 @@
     "ApprovalMode": "Auto",
     "ApprovalStatus": "Discard",
     "UserId": "U001",
-    "NoOfAlerts": 7
+    "NoOfAlerts": 7,
+    "fieldName": "Field Zeta",
+    "batteryName": "Battery 1",
+    "padName": "Pad pi",
+    "fieldId": 204,
+    "batteryId": 6204,
+    "padId": 76204
   },
   {
     "Id": 5,
@@ -108,7 +131,13 @@
     "ApprovalMode": "Auto",
     "ApprovalStatus": "Override",
     "UserId": "U001",
-    "NoOfAlerts": 2
+    "NoOfAlerts": 2,
+    "fieldName": "Field Alpha",
+    "batteryName": "Battery Lambda",
+    "padName": "Pad Sigma",
+    "fieldId": 201,
+    "batteryId": 3201,
+    "padId": 83201
   },
 
   {
@@ -131,7 +160,13 @@
     "ApprovalMode": "Auto",
     "ApprovalStatus": "Discard",
     "UserId": "U001",
-    "NoOfAlerts": 1
+    "NoOfAlerts": 1,
+    "fieldName": "Field Beta",
+    "batteryName": "Battery Gamma",
+    "padName": "Pad Omega",
+    "fieldId": 202,
+    "batteryId": 4202,
+    "padId": 94202
   },
   {
     "Id": 7,
@@ -153,6 +188,12 @@
     "ApprovalMode": "Manual",
     "ApprovalStatus": "Discard",
     "UserId": "U001",
-    "NoOfAlerts": 3
+    "NoOfAlerts": 3,
+    "fieldName": "Field Theta",
+    "batteryName": "Battery iota",
+    "padName": "Pad pi",
+    "fieldId": 203,
+    "batteryId": 5203,
+    "padId": 75203
   }
 ]
