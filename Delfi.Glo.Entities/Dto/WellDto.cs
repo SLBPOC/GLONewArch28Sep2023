@@ -11,29 +11,6 @@ namespace Delfi.Glo.Entities.Dto
     }
     public class WellDto
     {
-        //public int Id { get; set; }
-        //public string? WellId { get; set; }
-        //public string? WellName { get; set; }
-        //public string? DateAndTime { get; set; }
-        //public string? CommStatus { get; set; }
-        //public string? ControllerStatus { get; set; }
-        //public WellChartDetails? SPM { get; set; }
-        //public WellChartDetails? PumpFillage { get; set; }
-        //public WellChartDetails? InferredProduction { get; set; }
-        //public WellChartDetails? EffectiveRunTime { get; set; }
-        //public WellChartDetails? CyclesToday { get; set; }
-        //public WellChartDetails? StructuralLoad { get; set; }
-        //public WellChartDetailsMinMax? MinMaxLoad { get; set; }
-        //public WellChartDetails? GearboxLoad { get; set; }
-        //public WellChartDetails? RodStress { get; set; }
-        //public int NoOfAlerts { get; set; }
-        //public string? WellStatus { get; set; }
-        //public string? FieldName { get; set; }
-        //public string? BatteryName { get; set; }
-        //public string? PadName { get; set; }
-        //public int FieldId { get; set; }
-        //public int BatteryId { get; set; }
-        //public int PadId { get; set; }
         public int Id { get; set; }
         public string? WellId { get; set; }
         public string WellName { get; set; }
